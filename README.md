@@ -1,21 +1,9 @@
 # Bashboobot
 
-**TODO: Add description**
+Bashboobot is a web crawler system to index web pages related to software development.s
+The project started in a series of videos on youtube.
 
-## Installation
+The purpose is to better understand how search engines work by putting elixir into practice. 
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `bashboobot` to your list of dependencies in `mix.exs`:
 
-```elixir
-def deps do
-  [
-    {:bashboobot, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/bashboobot](https://hexdocs.pm/bashboobot).
-
+[know the channel by clicking here ](https://www.youtube.com/channel/UCjSFU-9JUt2ATyjomcsRgSQ)
